@@ -1,0 +1,34 @@
+.body{
+  background-color:darkgray;
+}
+.font-check{
+  font-size: 130%;
+  font-weight:bold;
+  font:black;
+}
+#absolute {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  width:500px;
+  height:250px;
+}
+
+.center{
+ padding-bottom:10px;
+}
+
+.fa{
+  padding-right:20px;
+}
+
+#quote{
+  font-family:"copperplate";
+  font-weight: bold;
+}
+
+#author{
+  font-size:1.2em;
+  font-family:"copperplate";
+  font-weight: bold;
+}
